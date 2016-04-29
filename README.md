@@ -10,7 +10,7 @@ More details can be found at http://projects.iq.harvard.edu/fits
 
 This build is offered As-Is with no support. 
 
-#Build Features:
+# Build Features:
 There is a volume called /processing, if you attach local storage to this you can put files into the folder and
 then you can use the URL to examine them like follows: http://[DOCKERIP]:8080/fits/examine?file=/processing/[FILENAME]
 
